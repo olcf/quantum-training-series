@@ -4,6 +4,6 @@ This directory contains the demo codes used during the [PennyLane on Frontier 20
 
 > [Recording](TBD)
 
-* Example 1: features basic PennyLane usage
+* Examples 0, 1: features basic PennyLane usage
 * Example 2: features using `Lightning Kokkos` across multiple GPUs on Frontier
 * Example 3: features the Catalyst Compiler
