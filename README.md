@@ -9,4 +9,4 @@ A list of the events (so far):
 
 | Date     | Event                                 | Format | Material |
 | :------- | :------------------------------------ | :----- | :------- |
-| 10/01/25 | [PennyLane Lightning on Frontier](https://www.olcf.ornl.gov/calendar/pennylane-on-frontier-2025/) | Tutorial | [Recording](TBD) |
+| 10/01/25 | [PennyLane on Frontier 2025](https://www.olcf.ornl.gov/calendar/pennylane-on-frontier-2025/) | Tutorial | [Recording](TBD) |
