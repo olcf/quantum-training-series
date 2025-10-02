@@ -1,5 +1,9 @@
 # Quantum Training Series
 
+<p align="center" width="100%">
+    <img width="100%" src="./QTS_Banner.jpg">
+</p>
+
 The OLCF is proud to offer the Quantum Training Series.
 The Quantum Training Series is meant to highlight workflows, tools, software, and techniques used for quantum computing -- both within the realm of HPC and not.
 
